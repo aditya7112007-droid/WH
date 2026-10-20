@@ -22,4 +22,4 @@ What I found interesting about this was that the AI models themselves were appar
 
 For me, this incident showed that security is not only about protecting systems from hackers. As AI tools become more capable, properly controlling their access and testing environment is also becoming an important part of cybersecurity.
 
-**Source:** Anthropic — Investigating three real-world incidents in our cybersecurity evaluations
+**Source:** Anthropic — https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals
